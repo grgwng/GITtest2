@@ -12,3 +12,6 @@ another another b1 change
 another x3 b1 change
 
 a1
+b1
+b2
+b3
