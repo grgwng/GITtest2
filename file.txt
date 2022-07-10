@@ -1,5 +1,3 @@
 Hello World!
 
 Initial Commit!
-
-Another commit!
