@@ -5,3 +5,4 @@ A change on b1!!
 
 
 change2 on master
+change2 on b1
